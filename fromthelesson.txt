@@ -1,0 +1,7 @@
+1. Если запрашивает логин, пароль на Git -------git config --global user.name "AdelinaShal"
+git config --global user.email ada.bg997@gmail.com
+
+2. Если  запрашивает токен, см. lesson 30.04
+
+3. Если нужен SSL сертификат :  ssh-keygen -t rsa -C "AdelinaShal"
+после найти созданный файл на компе, открываем через текстовый редактор, копируем , в github в ssh key добавляем ключ
