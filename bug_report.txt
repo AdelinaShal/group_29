@@ -1,0 +1,10 @@
+1) summary
+2)project
+3)Version
+4)Severity
+5)priority
+6)status
+7)author
+8)steps to reproduse
+9) result
+10)expected result
